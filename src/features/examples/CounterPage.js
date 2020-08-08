@@ -8,7 +8,7 @@ export default function CounterPage() {
 
   return (
     <div className="examples-counter-page">
-      <h1>Counteraaaa</h1>
+      <h1>Counteraaaaaa</h1>
       <p>This is simple scounter demo tof show how Redux sync actions wosrk. sdf</p>
       <button className="btn-minus-one" onClick={counterMinusOne} disabled={count === 0}>
         -
